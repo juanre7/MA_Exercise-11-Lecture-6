@@ -35,7 +35,6 @@ This MATLAB script plots, for four FIR filters (Types I–IV), the **magnitude r
 * Includes toolbox-free fallbacks for `freqz`, `tf2zpk`, and `zplane` (so it also works in basic MATLAB installs).
 
 ## Output
-> Replace the path below with the saved figure or a screenshot of your results.
 
 ![Exercise 11 - FIR Types 1-IV.bmp](https://github.com/user-attachments/files/22781005/Exercise.11.-.FIR.Types.1-IV.bmp)
 
