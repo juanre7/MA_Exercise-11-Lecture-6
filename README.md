@@ -17,7 +17,7 @@ This MATLAB script plots, for four FIR filters (Types I–IV), the **magnitude r
 
 ## How to run
 
-1. Open MATLAB (or Octave).
+1. Open MATLAB.
 2. Save the provided script as `Exercise11.m`.
 3. Run:
 
@@ -32,7 +32,7 @@ This MATLAB script plots, for four FIR filters (Types I–IV), the **magnitude r
 * Computes (H(e^{j\omega})) with `freqz`.
 * Plots `abs(H)` (magnitude) and `unwrap(angle(H))` (phase).
 * Shows zero locations with `zplane(h,1)`.
-* Includes toolbox-free fallbacks for `freqz`, `tf2zpk`, and `zplane` (so it also works in basic MATLAB/Octave installs).
+* Includes toolbox-free fallbacks for `freqz`, `tf2zpk`, and `zplane` (so it also works in basic MATLAB installs).
 
 ## Output
 > Replace the path below with the saved figure or a screenshot of your results.
